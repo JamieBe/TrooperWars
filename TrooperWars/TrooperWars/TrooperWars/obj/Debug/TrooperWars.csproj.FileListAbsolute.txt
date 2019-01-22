@@ -1,0 +1,7 @@
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\bin\Debug\TrooperWars.exe.config
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\bin\Debug\TrooperWars.exe
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\bin\Debug\TrooperWars.pdb
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\obj\Debug\TrooperWars.csprojResolveAssemblyReference.cache
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\obj\Debug\TrooperWars.csproj.CoreCompileInputs.cache
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\obj\Debug\TrooperWars.exe
+C:\Users\Jametta\source\repos\TrooperWars\TrooperWars\obj\Debug\TrooperWars.pdb
